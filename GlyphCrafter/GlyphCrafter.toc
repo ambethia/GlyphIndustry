@@ -1,0 +1,9 @@
+## Interface: 30100
+## Title: Glyph Crafter
+## Notes: Crafting tool for scribes
+## Version: v1.0
+## Author: Jason L Perry
+## Dependencies: BeanCounter, ForSaleByOwner, Panda, Altoholic
+
+Core.lua
+Glyphs.lua

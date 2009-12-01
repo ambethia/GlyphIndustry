@@ -1,0 +1,10 @@
+## Interface: 30100
+## Title: Glyph Trader
+## Notes: Auction house tool for scribes
+## Version: v1.0-alpha
+## Author: Jason L Perry
+## LoadOnDemand: 1
+## LoadWith: Blizzard_AuctionUI
+## Dependencies: Auc-Advanced, GlyphCrafter
+
+Core.lua
